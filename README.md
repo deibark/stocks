@@ -1,6 +1,6 @@
 ## How to run it
 
-To start the application, you have to be able to run react application in your computer.
+You have to be able to run react application in your computer.
 To start the application, make sure you are in the project directory and run
 
 ```
